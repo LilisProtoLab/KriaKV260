@@ -23,5 +23,5 @@ This project is released under CC0 1.0 Universal.
 You can modify and reuse as you like.
 The project team appreciates your suggestions or examples for enhancing the repository, but your consistent documentation of your project is the best gift to the world. Hopefully, this template could make that a bit easier for you. 
 
-## (Funding)
+## Funding
 ![LPL sharing image](./Docs/Images/lpl_sharing.jpg)
